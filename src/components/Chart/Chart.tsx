@@ -15,7 +15,6 @@ interface ChartProps {
 }
 
 const Chart = ({ xValues, yValues, title, type }: ChartProps) => {
-  console.log(title);
   const option = {
     title: {
       text: title,

@@ -8,6 +8,7 @@ const App = () => {
   const malicAcids: number[] = data.map((d) => d[2]);
   const colorIntensities: number[] = data.map((d) => d[9]);
   const hues: number[] = data.map((d) => d[10]);
+
   return (
     <div className="container">
       {/* bar chart */}

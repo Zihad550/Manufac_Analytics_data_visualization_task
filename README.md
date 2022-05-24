@@ -1,7 +1,8 @@
-# How to start
+# How to start the project
 
 ## steps
 
-- copy the or download the project
-- `yarn` or `npm install` = to install everything
-- `yarn start` or `npm start` = to start the project
+- clone the project using git clone or download the project ZIP file
+- go to the project directory on cmd or open with vs code
+- on your terminal write `yarn` or `npm install` = to install all required packages
+- `yarn start` or `npm start` = to start the project. it will start the project on port localhost:3000
